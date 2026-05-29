@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801059030905",
+    "project_id": "edujarkom",
+    "storage_bucket": "edujarkom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801059030905:android:712c68f7cb01384f6651a8",
+        "android_client_info": {
+          "package_name": "com.example.edujarkom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JNkm9tWQ3wZ550x-Xj3zt1p0G-tunvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
